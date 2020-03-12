@@ -12,6 +12,7 @@ Docker image with Tensorflow and OpenCV for Synology with Intelprocessor without
 ## Content
 | Software | Version | Comment |
 | --------- | ------- | ------- |
+| Python | 3.7 |  |
 | Tensorflow | 2.0 |  |
 | OpenCV | 4.1 |  |
 
