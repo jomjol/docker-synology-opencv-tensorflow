@@ -1,3 +1,5 @@
+<span style="color: red;">This code is depreciated and will not be maintained any more!</span> 
+
 # docker-synology-opencv-tensorflow
 Docker image with Tensorflow and OpenCV for Synology with Intelprocessor without AVX2-Support
 
